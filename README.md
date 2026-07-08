@@ -13,6 +13,7 @@
 ![Views](https://komarev.com/ghpvc/?username=GADEKAR328&label=Repo%20Views&color=red&style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/GADEKAR328/Blood-Group-Analysis-Dashboard-PowER-BI?style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/GADEKAR328/Blood-Group-Analysis-Dashboard-PowER-BI?style=flat-square)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20on%20Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/tyXQjjOs90?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
 
 **Author:** Yogesh Gadekar
 
@@ -24,6 +25,12 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GADEKAR328/Blood-Group-Analysis-Dashboard-PowER-BI/e487536b934eb782e03450438a9c72e0d074f793/Blood%20Group%20Analysis%20Dashboard.jpg" alt="Wadzire Village Blood Group Dashboard Preview" width="100%">
+</div>
+
+<div align="center">
+
+### 🔴 [**View the Live Interactive Dashboard on Power BI →**](https://app.powerbi.com/links/tyXQjjOs90?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
+
 </div>
 
 ---
@@ -192,6 +199,10 @@ CALCULATE(COUNTROWS(Residents), Residents[BloodGroup] = "AB+")
 ---
 
 ## 🚀 How to Use
+
+**Quick Look:** Prefer not to install anything? [**Open the live interactive dashboard**](https://app.powerbi.com/links/tyXQjjOs90?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare) directly in your browser — filter, hover, and explore just like the original.
+
+**Run it locally:**
 
 1. **Clone this repository**
    ```bash
